@@ -1,0 +1,12 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow:
+
+
+First phase: Develop a static mobile app with only a header and web-app with the values like color, 
+text, title, menu direction, type of icons etc.. as input form from user. 
+The data from the web-app will be saved to database using the backend programming language.
+
+
+
+
